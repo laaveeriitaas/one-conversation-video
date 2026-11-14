@@ -1,0 +1,9 @@
+node_modules/
+dist/
+frames/
+output.mp4
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.tsbuildinfo
